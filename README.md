@@ -5,13 +5,13 @@ Plasticity of Human Microglia and Brain Perivascular Macrophages in Aging and Al
 
 ```
 scMyeloidAD
-├──1_taxonomy: preprocessing and QC of single-cell data [Figure 1]
-├──2_crumblr: analysis on compositional variation [Figure 2, 3]
-├──3_dreamlet: analysis on gene expression variation [Figure 2, 3]
-├──4_pseudotime: analysis on disease trajectory [Figure 3]
-├──5_GRN: gene regulatory network inference [Figure 4]
-├──6_CCI: cell-to-cell interaction analysis [Figure 5]
-└──7_heritability: heritability analysis [Figure 6]
+├──1_taxonomy: preprocessing and QC of single-cell data
+├──2_crumblr: analysis on compositional variation
+├──3_dreamlet: analysis on gene expression variation
+├──4_pseudotime: analysis on disease trajectory
+├──5_GRN: gene regulatory network inference
+├──6_CCI: cell-to-cell interaction analysis
+└──7_heritability: heritability analysis
 ```
 
 # System requirements
@@ -58,12 +58,11 @@ zenith v1.2.0
 For more information about the installation, demo workflow, and use cases of Dreamlet, please visit https://diseaseneurogenomics.github.io/dreamlet/ for more information.
 
 # Dataset
-Supplementary data and tables available at [https://www.synapse.org/#!Synapse:syn52795287/wiki/624275](https://www.synapse.org/#!Synapse:syn52795287)
+Supplementary data and tables are available at [https://www.synapse.org/#!Synapse:syn52795287/wiki/624275](https://www.synapse.org/#!Synapse:syn52795287)
 
 # Citation
 Plasticity of Human Microglia and Brain Perivascular Macrophages in Aging and Alzheimer’s Disease
-Donghoon Lee, Christian Porras, Collin Spencer, Milos Pjanic, Philipp Weiler, Roman Kosoy, Jaroslav Bendl, N M Prashant, Xinyi Wang, Shiwei Zheng, Karen Therrien, Deepika Mathur, Steven P. Kleopoulos, Zhiping Shao, Stathis Argyriou, Marcela Alvia, Clara Casey, Aram Hong, Kristin G. Beaumont, Robert Sebra, Christopher P. Kellner, David A. Bennett, Guo-Cheng Yuan, George Voloudakis, Fabian J. Theis, Vahram Haroutunian, Gabriel E. Hoffman, John F. Fullard, Panos Roussos
-medRxiv 2023.10.25.23297558; doi: https://doi.org/10.1101/2023.10.25.23297558
+Lee et. al. medRxiv 2023.10.25.23297558; doi: https://doi.org/10.1101/2023.10.25.23297558
 
 # License
 MIT License
