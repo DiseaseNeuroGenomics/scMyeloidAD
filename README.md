@@ -66,13 +66,3 @@ Lee et. al. medRxiv 2023.10.25.23297558; doi: https://doi.org/10.1101/2023.10.25
 
 # License
 MIT License
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0CPVRBELR2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-0CPVRBELR2');
-</script>
